@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "commander": "^2.12.2",
+    "inquirer": "^4.0.1"
+  },
+  "name": "emulator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LambdaSchool/Computer-Architecture-One.git",
+  "author": "Jonathan Chiang <signup.jc13@gmail.com>",
+  "license": "MIT"
+}

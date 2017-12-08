@@ -1,0 +1,11 @@
+const MEMORY_SIZE = 256;
+const PROCESSOR_BIT_CAPACITY = 8;
+const CLOCK_SPEED = 1;
+const INTERVAL = 100;
+
+module.exports = {
+  MEMORY_SIZE,
+  PROCESSOR_BIT_CAPACITY,
+  CLOCK_SPEED,
+  INTERVAL
+}
